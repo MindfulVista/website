@@ -1,0 +1,20 @@
+{
+  "name": "MindfulVista",
+  "short_name": "MindfulVista",
+  "icons": [
+    {
+      "src": "assets/images/favicon_io/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/favicon_io/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#7E57C2",
+  "background_color": "#F5F5F5",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
